@@ -1,6 +1,6 @@
 # :wave: Hello there!
 
-I'm Hubert and I am aspiring to become a Full-Time Front-End Developer :) 
+My name is Hubert and I am aspiring to become a Full-Time Front-End Developer :) 
 
 - 🌱 I’m currently learning JavaScript & React
 
