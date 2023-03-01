@@ -1,4 +1,4 @@
-# :wave: Hello there!
+# :wave: hello there!
 
 My name is Hubert and I am aspiring to become a full-time Front-End Developer :) 
 
