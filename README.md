@@ -2,8 +2,7 @@
 
 My name is Hubert and I am aspiring to become a full-time Front-End Developer :) 
 
-- 🌱 I’m currently learning React & Node.js
-
+- 🌱 I’m currently learning Node, React & Salesforce
 - 📫 How to reach me: hkzawisza@gmail.com
 
 <!---
