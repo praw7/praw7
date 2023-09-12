@@ -1,6 +1,6 @@
 # :wave: hello there!
 
-My name is Hubert and I am aspiring to become a full-time Front-End Developer :) 
+My name is Hubert and this is my github :)
 
 - 🌱 I’m currently learning Node, React & Salesforce
 - 📫 How to reach me: hkzawisza@gmail.com
