@@ -1,8 +1,8 @@
 # :wave: hello there!
 
-My name is Hubert and this is my github :)
+My name is Hubert and this is my GitHub :)
 
-- 🌱 I’m currently learning Node, React & Salesforce
+- 🌱 I’m currently learning C#, .NET & React
 - 📫 How to reach me: hkzawisza@gmail.com
 
 <!---
